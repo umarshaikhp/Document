@@ -7,5 +7,5 @@ cscript ospp.vbs /setprt:1688
 cscript ospp.vbs /act
 
 go to cmd run as administrator
-and then go to microsoft office and then office 16 
-and paste above contain
+and then go to microsoft office and then office 16 and copy that path and paste to the cmd and we will reach office 16 
+and then paste above contain
